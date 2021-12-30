@@ -1,5 +1,4 @@
-### Hello 👋
-I'm Divya Sale
+### Hi 👋, I'm Divya Sale
 
 - 👩‍🎓 I'm Computer Engineering Student(Third Year)
 - 👀 I’m Interested in Machine Learning. 
