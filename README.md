@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Divya Sale
 
-- 👩‍🎓 I'm Computer Engineering Student(Third Year)
+- 👩‍🎓 I'm Computer Engineering Student(Final Year)
 - 👀 I’m Interested in Machine Learning. 
 - 🌱 I’m currently learning Machine Learning.
 - 👩‍💻 **Programming languages** - C, java, Python.
